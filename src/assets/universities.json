@@ -1,0 +1,139 @@
+[
+    {
+        "Id": "1",
+        "Name": "Jamhuriya University",
+        "Established": "2011",
+        "Campuses": "3",
+        "Faculties": "4",
+        "Logo": "./imgs/jamhuriya.jpg",
+        "Votes": "500"
+    },
+    {
+        "Id": "2",
+        "Name": "Simad University",
+        "Established": "1999",
+        "Campuses": "2",
+        "Faculties": "6",
+        "Logo": "./imgs/simad.jpg",
+        "Votes": "390"
+    },
+    {
+    "Id": "3",
+    "Name": "Plasma University",
+    "Established": "2005",
+    "Campuses": "3",
+    "Faculties": "6",
+    "Logo": "./imgs/plasma.jpg",
+    "Votes": "333"
+    
+    },
+    {
+        "Id": "4",
+        "Name": " Jaamacadda Ummadda Soomaliyeed",
+        "Established": "1954",
+        "Campuses": "2",
+        "Faculties": "14",
+        "Logo": "./imgs/umadda.jpg",
+        "Votes": "410"
+    },
+    { 
+        "Id": "5",
+        "Name": "Benadir University",
+        "Established": "2002",
+        "Campuses": "3",
+        "Faculties": "5",
+        "Logo": "./imgs/benadir.jpg",
+        "Votes": "120"
+    },
+    {
+        "Id": "6",
+        "Name": "Mogadishu University",
+        "Established": "1997",
+        "Campuses": "6",
+        "Faculties": "11",
+        "Logo": "./imgs/mogadishu.jpg",
+        "Votes": "250"
+    },
+    {
+        "Id": "7",
+        "Name": " Zamzam University",
+        "Established": "2014",
+        "Campuses": "2",
+        "Faculties": "7",
+        "Logo": "./imgs/zamzam.jpg",
+        "Votes": "200" 
+    },
+    {
+        "Id": "8",
+        "Name": "Jazeera University",
+        "Established": "2011",
+        "Campuses": "3",
+        "Faculties": "8",
+        "Logo": "./imgs/jazeera.jpg",
+        "Votes": "230"                             
+    },
+    {
+        "Id": "9",
+        "Name": "Hormuud University",
+        "Established": "2016",
+        "Campuses": "3",
+        "Faculties": "4",
+        "Logo": "./imgs/hormuud.jpg" ,
+        "Votes": "299"
+    },
+    {
+        "Id": "10",
+        "Name": " Horn of Africa University",
+        "Established": "2017",
+        "Campuses": "2",
+        "Faculties": "5",
+        "Logo": "./imgs/horn.jpg",
+        "Votes": "127"
+    },
+    {
+        "Id": "11",
+        "Name": " University of Somalia",
+        "Established": "2005",
+        "Campuses": "2",
+        "Faculties": "6",
+        "Logo": "./imgs/uniso.jpg",
+        "Votes": "105"
+    },
+    {
+        "Id": "12",
+        "Name": "Horseed International University",
+        "Established": "2011",
+        "Campuses": "1",
+        "Faculties": "8",
+        "Logo": "./imgs/horseed.jpg",
+        "Votes": "88"
+    },
+    {
+        "Id": "13",
+        "Name": "Indian Ocean University",
+        "Established": "2010",
+        "Campuses": "1",
+        "Faculties": "7",
+        "Logo": "./imgs/indian.jpg" ,
+        "Votes": "50"
+    },
+    {
+        "Id": "14",
+        "Name": "Jobkey University",
+        "Established": "2012",
+        "Campuses": "3",
+        "Faculties": "7",
+        "Logo": "./imgs/jobkey.jpg",
+        "Votes": "200"
+    },
+    {
+        "Id": "15",
+        "Name": "Daha University",
+        "Established": "2014",
+        "Campuses": "2",
+        "Faculties": "7" ,
+        "Logo": "./imgs/daaha.jpg",
+        "Votes": "39"
+    }
+]
+
